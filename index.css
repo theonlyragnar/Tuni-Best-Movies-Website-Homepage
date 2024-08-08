@@ -1,0 +1,269 @@
+body {
+  background-color: #030202;
+  background-image: linear-gradient(326deg, #030202 0%, #91221e 74%);
+}
+.header {
+  background-color: transparent;
+  height: 45px;
+  width: 1300px;
+  border-radius: 30px;
+  box-shadow: 1px 1px 60px rgb(0, 0, 0);
+  display: flexbox;
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+  margin: 30px;
+  left: 14.5%;
+  position: absolute;
+  border: solid 1px white;
+}
+.logo {
+  width: 200px;
+  position: absolute;
+  top: -165%;
+  left: 40%;
+}
+.filmcontainer {
+  width: 100%;
+  align-content: space-between;
+}
+
+.film1image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 15%;
+  margin-left: 200px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film2image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 15%;
+  margin-left: 30%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film3image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 15%;
+  margin-left: 50%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film4image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 15%;
+  margin-left: 70%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film5image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 65%;
+  margin-left: 200px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film6image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 65%;
+  margin-left: 30%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film7image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 65%;
+  margin-left: 50%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film8image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 65%;
+  margin-left: 70%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film9image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 115%;
+  margin-left: 200px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film10image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 115%;
+  margin-left: 30%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film11image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 115%;
+  margin-left: 50%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film12image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 115%;
+  margin-left: 70%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film13image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 165%;
+  margin-left: 200px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film14image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 165%;
+  margin-left: 30%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film15image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 165%;
+  margin-left: 50%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film16image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 165%;
+  margin-left: 70%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film17image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 215%;
+  margin-left: 200px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film18image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 215%;
+  margin-left: 30%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film19image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 215%;
+  margin-left: 50%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film20image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 215%;
+  margin-left: 70%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film21image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 265%;
+  margin-left: 200px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film22image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 265%;
+  margin-left: 30%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film23image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 265%;
+  margin-left: 50%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
+.film24image {
+  width: 300px;
+  height: 450px;
+  position: absolute;
+  align-items: center;
+  top: 265%;
+  margin-left: 70%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px black;
+}
